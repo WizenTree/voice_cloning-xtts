@@ -30,7 +30,7 @@ Powered by Coqui TTS
 ### 1️⃣ Clone Repository
 
 ``` bash
-git clone https://github.com/your-username/voice-cloning-xtts.git
+git clone https://github.com/WizenTree/voice-cloning-xtts.git
 cd voice-cloning-xtts
 ```
 
