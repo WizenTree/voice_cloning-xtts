@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Audio files
+*.wav
+*.mp3
+
+# Torch cache
+.cache/
